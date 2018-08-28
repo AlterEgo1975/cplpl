@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534200312 source:c:\users\tomba\desktop\cplusplus\gra\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
